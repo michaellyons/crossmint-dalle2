@@ -1,6 +1,10 @@
 # DALLE 2 App (Next.js)
 ### Create realistic images and art from a description in natural language.
 
+![Screen_Shot_2022-08-15_at_10 48 39_AM](https://user-images.githubusercontent.com/17039453/185843550-1e0761ca-c07d-4eb6-83b7-0a7a5b1e6e23.png)
+
+
+
 [![DeepScan grade](https://deepscan.io/api/teams/18632/projects/21948/branches/641242/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=18632&pid=21948&bid=641242)
 
 ![CleanShot 2022-06-18 at 15 12 05@2x](https://user-images.githubusercontent.com/54872601/174429356-f9fc8ae5-6e4b-4dda-9262-165a5391445f.png)
